@@ -68,3 +68,12 @@ Rule: Check an item only after comparing against the source or testing the publi
 - [x] Confirmed the homepage describes a Singapore-based trader in metals, minerals, plastics and soft commodities; has an animated/clickable 12-slide hero and company/network/contact sections.
 - [x] Captured 13 homepage images: logo plus twelve Base44-hosted carousel photos.
 - [ ] Inspect About, GlobalNetworks, Contact and Products destinations; enumerate all product categories/SKUs and establish which source images are hero slides versus product detail photos.
+
+
+## Source route audit — additional verified detail
+- [x] Source About menu includes Corporate Profile, Vision/Mission/Core Values & Corporate Culture, Executive Director's Message and Global Networks.
+- [x] Product detail routes inventoried: ProductsAluminium (alloys, ingots, wire rod), ProductsBrass (ingots, alloys), ProductsSteel (slabs, billets), ProductsCopper (cathodes).
+- [x] Global Networks uses a selectable list of 15 ports with a map and selected-port details; Contact includes Singapore address, phone/fax, two email addresses, form and map.
+- [x] Executive Director's Message and Vision/Mission pages have distinct route content and were inspected.
+- [ ] Inventory and map all 12 homepage carousel images and each product/network detail image to exact source placement, crop and responsive behavior.
+- [ ] Rebuild and verify About submenu pages, interactive 15-port map/list, product category and detail routes, contact form and map independently.
