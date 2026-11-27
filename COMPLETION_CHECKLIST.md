@@ -42,3 +42,10 @@ Rule: Check an item only after comparing against the source or testing the publi
 - [ ] Check browser console, failed network requests, broken links, 404s, image loading and performance on desktop/mobile.
 - [ ] Verify GitHub Actions deployment succeeds; open the live deployed copy in a fresh session and directly load/refresh every route.
 - [ ] Record final verification date, deployed commit, public URL, and any remaining limitation. Custom domain/DNS is intentionally deferred until requested.
+
+## Verified audit notes — 2026-11-27
+- [x] Inspected source homepage: it identifies a Singapore trading company handling metals, minerals, plastics and soft commodities; includes About, Global Networks, Contact and product navigation.
+- [x] Confirmed source homepage has a logo plus a 12-slide hero carousel; its source images are Base44-hosted and the copy has 12 product-material image files/candidate slide images.
+- [x] Direct request to the copy's `/Home` path returned GitHub Pages 404 during this check.
+- [ ] Map every source slide image and all catalog image variants to the correct local files; the current file list alone does not prove exact asset matching.
+- [ ] Build and verify all product category/product pages, company routes, correct base paths and inquiry interactions.
