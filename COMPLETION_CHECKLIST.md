@@ -49,3 +49,8 @@ Rule: Check an item only after comparing against the source or testing the publi
 - [x] Direct request to the copy's `/Home` path returned GitHub Pages 404 during this check.
 - [ ] Map every source slide image and all catalog image variants to the correct local files; the current file list alone does not prove exact asset matching.
 - [ ] Build and verify all product category/product pages, company routes, correct base paths and inquiry interactions.
+
+### Fargo Meridian image verification detail
+- [x] Source homepage audit captured a Base44-hosted logo and 12 hero-carousel slide images.
+- [ ] Compare the 12 source slides to the 12 local product/material candidates one by one; current filenames do not prove that the hero carousel imagery matches.
+- [ ] Inventory product photos separately from hero slides and map every catalog image/document to a specific source product.
